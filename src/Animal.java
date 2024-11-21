@@ -1,3 +1,3 @@
-public class Animal {
+abstract class Animal {
     private String name;
 }
