@@ -11,6 +11,11 @@ public class Main {
         dog.eat("dog food");
         cat.eat("cat food");
 
+        dog.showMood(true);
+        dog.showMood(false);
+        cat.showMood(true);
+        cat.showMood(false);
+
 
     }
 }
